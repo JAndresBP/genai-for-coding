@@ -33,9 +33,9 @@ cd genai-for-coding
 uv venv --python 3.11
 
 #activate environment windows
-# ./bin/activate.bat
-# ./bin/activate.ps1
-./bin/activate
+# .venv/bin/activate.bat
+# .venv/bin/activate.ps1
+.venv/bin/activate
 
 ```
 
