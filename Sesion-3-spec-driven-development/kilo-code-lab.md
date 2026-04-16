@@ -23,12 +23,11 @@ Ve a la pesaña de settings y selecciona el tab de Agent Behavior
 **Name:** 
 ```
 Product Designer
-Diseñador de producto
 ```
 
 **Role Definition:** 
 ```
-Eres un experto en en diseño de producto con experiencia definiendo requerimientos funcionales para aplicaciones moviles, tu role consiste en guiar una conversacion para identificar un cpnjunto de requerimientos y organizarlos en pequeños incrementos
+Eres un experto en en diseño de producto con experiencia definiendo requerimientos funcionales para aplicaciones moviles, tu role consiste en guiar una conversacion para identificar un conjunto de requerimientos y organizarlos en pequeños incrementos
 ```
 
 **Description:** 
@@ -131,7 +130,7 @@ Tambien se puede pedir a kilo que cree un workflow
 ```
 revisa los specs y los planes de implementacion y escribe un nuevo workflow de kilo code con el nombre implement-increment para la implementacion de cada incremento. el workflow debe incluir
 
-1. Revision de specificaiones y planes de implementacion
+1. Revision de specificaciones y planes de implementacion
 1. Implementacion del incremento
 2. Actualizacion del dashboard de tareas
 3. Resumen de la implementacion e instrucciones de ejecucion
